@@ -72,6 +72,7 @@
 		FA9E73821642B7E1007BAEAE /* character.json in Resources */ = {isa = PBXBuildFile; fileRef = FA9E73801642B7E1007BAEAE /* character.json */; };
 		FA9E73831642B7E1007BAEAE /* guild.json in Resources */ = {isa = PBXBuildFile; fileRef = FA9E73811642B7E1007BAEAE /* guild.json */; };
 		FA9E73861642B845007BAEAE /* CharacterTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FA9E73851642B845007BAEAE /* CharacterTests.m */; };
+		FADA6A3716437114009F0842 /* UnitTest4Adhoc.mobileprovision in Resources */ = {isa = PBXBuildFile; fileRef = FADA6A3616437114009F0842 /* UnitTest4Adhoc.mobileprovision */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -182,6 +183,7 @@
 		FA9E73811642B7E1007BAEAE /* guild.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = guild.json; sourceTree = "<group>"; };
 		FA9E73841642B845007BAEAE /* CharacterTests.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CharacterTests.h; sourceTree = "<group>"; };
 		FA9E73851642B845007BAEAE /* CharacterTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CharacterTests.m; sourceTree = "<group>"; };
+		FADA6A3616437114009F0842 /* UnitTest4Adhoc.mobileprovision */ = {isa = PBXFileReference; lastKnownFileType = file; path = UnitTest4Adhoc.mobileprovision; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -418,6 +420,7 @@
 		FA78C55F16426FD000753FCF /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				FADA6A3616437114009F0842 /* UnitTest4Adhoc.mobileprovision */,
 				FA78C56016426FD000753FCF /* GuildBrowserLogicTests-Info.plist */,
 				FA78C56116426FD000753FCF /* InfoPlist.strings */,
 				FA78C56716426FD000753FCF /* GuildBrowserLogicTests-Prefix.pch */,
@@ -547,6 +550,7 @@
 				CB9FDD1315E9B31400B3713E /* profile_shield@2x.png in Resources */,
 				CB9FDD1415E9B31400B3713E /* toolbar.png in Resources */,
 				CB9FDD1515E9B31400B3713E /* toolbar@2x.png in Resources */,
+				FADA6A3716437114009F0842 /* UnitTest4Adhoc.mobileprovision in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
