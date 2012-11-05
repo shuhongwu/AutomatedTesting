@@ -1,1 +1,1 @@
-这是自动化单元测试 每天自动report案列练习项目
+这是自动化单元测试,通过jenkens自动pull检测改动，并编译汇报每次改动后的结果。综合运用TestFlightapp.com api上传ipa到制定账户 并通知相关测试用户下载app进行测试
